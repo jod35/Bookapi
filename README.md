@@ -12,3 +12,7 @@ this is a project I did for Teaching how to build REST APIs with Flask and Flask
 
 
 Feel free to contribute
+
+
+## Youtube Link
+https://youtu.be/-XuS0cfkvuA
